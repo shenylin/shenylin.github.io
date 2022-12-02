@@ -12,7 +12,7 @@ custom_js:
 
 
 # The secret behind the relationship between neighborhood and price in Newark, NJ
-# Author: Dhruvi Bhagat, Powell Hung, Shao-Ren Chen, Sheny Lin (Group 26)
+## Author: Dhruvi Bhagat, Powell Hung, Shao-Ren Chen, Sheny Lin (Group 26)
 
 ## Interactive Visualization
 
