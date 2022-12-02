@@ -42,11 +42,7 @@ We ensure the encoding of “price“ to be quantitative in order to make it wor
 
 ## Contextual Visualization 1
 
-```
-<vegachart schema-url="{{ site.baseurl }}/assets/pngs/ConViz1.png" style="width: 100%"></vegachart>
-```
-
-<vegachart schema-url="{{ site.baseurl }}/assets/pngs/ConViz1.png" style="width: 100%"></vegachart>
+![alt text goes here]({{ site.baseurl }}/assets/png/myimage.png)" style="width: 100%"></vegachart>
 
 The above visualization gives us clear distribution of the neighbourhoods - Central, East, North, East and West. We can infer from above visualization that the east zone is significantly huge and the west zone is steep with covering a little portion of north as well.
 
@@ -55,14 +51,9 @@ This finding is in sync with the above interactive visualization where we can se
 
 ## Contextual Visualization 2
 
-```
-<vegachart schema-url="{{ site.baseurl }}/assets/pngs/ConViz2.png" style="width: 100%"></vegachart>
-```
-
-<vegachart schema-url="{{ site.baseurl }}/assets/pngs/ConViz2.png" style="width: 100%"></vegachart>
+![alt text goes here]({{ site.baseurl }}/assets/png/myimage.png) style="width: 100%"></vegachart>
 
 The above visualization gives us a cockpit view of the growth of Airbnb over the years. As we can see the growth in the number of reviews is exponencial except the sudden drop around the year 2020. This is probably because of pandemic where the travel industry was severely impacted. However, the number of reviews increased by double around 2022 indicating incredible growth for the company.
-
 
 
 ## Search The Data & Analysis
@@ -78,7 +69,6 @@ Below is where we can put some links to both the data and the analysis code as b
 {% include elements/button.html link="https://github.com/shenylin/shenylin.github.io/blob/main/FinalProjPart3_group26.ipynb" text="The Analysis" %}
 </div>
 ```
-
 
 
 <!-- these are written in a combo of html and liquid --> 
