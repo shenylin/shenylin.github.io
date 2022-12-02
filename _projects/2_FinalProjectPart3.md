@@ -51,7 +51,7 @@ This finding is in sync with the above interactive visualization where we can se
 
 ## Contextual Visualization 2
 
-![alt text goes here]({{ site.baseurl }}/assets/png/ConViz1.png)
+![alt text goes here]({{ site.baseurl }}/assets/png/ConViz2.png)
 
 The above visualization gives us a cockpit view of the growth of Airbnb over the years. As we can see the growth in the number of reviews is exponencial except the sudden drop around the year 2020. This is probably because of pandemic where the travel industry was severely impacted. However, the number of reviews increased by double around 2022 indicating incredible growth for the company.
 
