@@ -42,7 +42,7 @@ We ensure the encoding of “price“ to be quantitative in order to make it wor
 
 ## Contextual Visualization 1
 
-![alt text](assets/png/ConViz1.png)
+![alt text goes here]({{ site.baseurl }}/assets/png/ConViz1.png)
 
 The above visualization gives us clear distribution of the neighbourhoods - Central, East, North, East and West. We can infer from above visualization that the east zone is significantly huge and the west zone is steep with covering a little portion of north as well.
 
@@ -51,7 +51,7 @@ This finding is in sync with the above interactive visualization where we can se
 
 ## Contextual Visualization 2
 
-![alt text](assets/png/ConViz2.png)
+![alt text goes here]({{ site.baseurl }}/assets/png/ConViz2.png)
 
 The above visualization gives us a cockpit view of the growth of Airbnb over the years. As we can see the growth in the number of reviews is exponencial except the sudden drop around the year 2020. This is probably because of pandemic where the travel industry was severely impacted. However, the number of reviews increased by double around 2022 indicating incredible growth for the company.
 
