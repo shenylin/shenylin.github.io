@@ -11,7 +11,10 @@ custom_js:
 ---
 
 
-# Interactive Visualization
+# The secret behind the relationship between neighborhood and price in Newark, NJ
+# Author: Dhruvi Bhagat, Powell Hung, Shao-Ren Chen, Sheny Lin (Group 26)
+
+## Interactive Visualization
 
 We can use a vegachart HTML tag like so:
 
@@ -28,7 +31,7 @@ As for design choices, "Price per night" is a quantitative value, "Neighborhood"
 We ensure the encoding of “price“ to be quantitative in order to make it work well with Altair. The color choices in this visualization is by default and if you make a selection on the heatmap, the bar plot will reflect the values accordingly. Therefore, we can see the relationship among the "Neighborhoods (in Newark, NJ)", "Price (per night)", "Room Type" and "Average Number of Review" of the Airbnb listings in Newark, NJ.
 
 
-# Contextual Visualization
+## Contextual Visualization
 
 
 ### Source
@@ -40,7 +43,7 @@ We ensure the encoding of “price“ to be quantitative in order to make it wor
  [reviews.csv (12 MB)](https://raw.githubusercontent.com/shenylin/shenylin.github.io/main/reviews.csv)
 
 
-## Contextual Visualization 1
+### Contextual Visualization 1
 
 ![alt text goes here](/assets/pngs/ConViz1.png)
 
@@ -49,14 +52,14 @@ The above visualization gives us clear distribution of the neighbourhoods - Cent
 This finding is in sync with the above interactive visualization where we can see that the east neighbourhood has the maximum number of average reviews. This maybe because the listings are more in the east neighbourhood (given the huge area covered by it) and thus, more number of reviews.
 
 
-## Contextual Visualization 2
+### Contextual Visualization 2
 
 ![alt text goes here](/assets/pngs/ConViz2.png)
 
 The above visualization gives us a cockpit view of the growth of Airbnb over the years. As we can see the growth in the number of reviews is exponencial except the sudden drop around the year 2020. This is probably because of pandemic where the travel industry was severely impacted. However, the number of reviews increased by double around 2022 indicating incredible growth for the company.
 
 
-## Search The Data & Analysis
+### Search The Data & Analysis
 
 Below is where we can put some links to both the data and the analysis code as buttons:
 
