@@ -66,8 +66,13 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
-  elements:                                             # For Documentation Only
-    output: true                                        # For Documentation Only
+
+  research:
+    output: true
+    permalink: /research/:name
+
+  elements:
+    output: true
 
 
 ### Disqus ###
@@ -99,16 +104,24 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-  - scope:                                              # For Documentation Only
-      path: ""                                          # For Documentation Only
-      type: "elements"                                  # For Documentation Only
-    values:                                             # For Documentation Only
-      layout: "element"                                 # For Documentation Only
+
+  - scope:
+      path: ""
+      type: "research"
+    values:
+      layout: "page"
+
+  - scope:
+      path: ""
+      type: "elements"
+    values:
+      layout: "element"
+
   - scope:
       path: ""
       type: "posts"
     values:
-      comments: false                                   # Set to true to enable disqus comments
+      comments: false
 
 
 ### Exclude from processing ###
