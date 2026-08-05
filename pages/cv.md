@@ -1,6 +1,7 @@
 ---
 title: CV
 permalink: /cv/
+weight: 3
 ---
 
 # Curriculum Vitae
