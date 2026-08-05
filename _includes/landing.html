@@ -1,15 +1,77 @@
-<div class="row justify-content-center align-items-center p-4">
-  <div class="col-lg-4 col-md-6 text-center mt-4">
+<div class="container py-5">
+  <div class="row align-items-start">
 
-    <!-- Fine Circle Responsive Image -->
-    <div id="container" class="my-2">
-      <div id="dummy"></div>
-      <div id="element">
-        <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image wow animated zoomIn" data-wow-delay=".1s">
-      </div>
-    </div>
+    <!-- Left sidebar -->
+    <aside class="col-lg-4 mb-5 mb-lg-0">
+      <img
+        src="{{ site.author.image | relative_url }}"
+        alt="{{ site.author.name }}"
+        class="img-fluid rounded-circle mb-4"
+        style="max-width: 230px;"
+      >
 
-    <p class="text-muted wow animated slideInUp" data-wow-delay=".15s">{{ site.description }}</p>
+      <h2 class="h4 font-weight-bold mb-2">
+        {{ site.author.name }}
+      </h2>
+
+      <p class="mb-4">
+        Quantitative UX Researcher
+      </p>
+
+      <p class="mb-2">
+        <i class="fas fa-map-marker-alt mr-2"></i>
+        Austin, Texas
+      </p>
+
+      <p class="mb-2">
+        <i class="fas fa-envelope mr-2"></i>
+        <a href="mailto:{{ site.author.email }}">Email</a>
+      </p>
+
+      <p class="mb-2">
+        <i class="fab fa-linkedin mr-2"></i>
+        <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">
+          LinkedIn
+        </a>
+      </p>
+
+      <p class="mb-2">
+        <i class="fab fa-github mr-2"></i>
+        <a href="https://github.com/{{ site.author.github }}">
+          GitHub
+        </a>
+      </p>
+    </aside>
+
+    <!-- Main introduction -->
+    <main class="col-lg-8">
+      <h1 class="mb-4">Welcome</h1>
+
+      <p>
+        Hello, I’m <strong>Sheny C. Lin</strong>, a quantitative UX
+        researcher with interdisciplinary training in information science,
+        communication technology, and human-computer interaction.
+      </p>
+
+      <p>
+        My research examines how people interpret, evaluate, and respond to
+        information in technology-mediated environments. I am particularly
+        interested in experimental design, persuasion, user behavior,
+        human–AI interaction, and computational social science.
+      </p>
+
+      <p>
+        I hold master’s degrees in Information Science from the University
+        of Illinois Urbana-Champaign and Communication Technology from
+        National Yang Ming Chiao Tung University.
+      </p>
+
+      <p>
+        Across academic and applied settings, I have worked on research
+        involving native advertising, collaborative technologies,
+        healthcare, and user experience.
+      </p>
+    </main>
 
   </div>
 </div>
