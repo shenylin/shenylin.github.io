@@ -1,3 +1,9 @@
+---
+title: Research
+permalink: /research/
+weight: 1
+---
+
 # Research
 
 My research examines how people interpret and respond to information in technology-mediated environments.
