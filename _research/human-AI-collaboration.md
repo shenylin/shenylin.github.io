@@ -1,7 +1,7 @@
 ---
 title: Collaborative Research in CSCW
 description: Examining how people collaborate and use technology in shared work contexts
-image: assets/pngs/cscw-thumbnail.png
+image: assets/pngs/AI-human interaction.png
 ---
 
 # Collaborative Research in CSCW
