@@ -75,6 +75,7 @@ collections:
     output: true
 
 
+
 ### Disqus ###
 disqus:
   shortname: your-short-name-disqus                     # Your website Shortname on disqus
