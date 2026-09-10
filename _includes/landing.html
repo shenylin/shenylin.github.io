@@ -1,6 +1,7 @@
 <div class="container py-5">
   <div class="row align-items-start">
 
+
     <!-- Left sidebar -->
     <aside class="col-lg-4 mb-5 mb-lg-0">
       <img
@@ -10,16 +11,14 @@
         style="max-width: 230px;"
       >
 
+
       <h2 class="h4 font-weight-bold mb-2">
         {{ site.author.name }}
       </h2>
 
+
       <div class="profile-details mt-4">
-                <a
-          href="{{ '/research/conversational-agent/' | relative_url }}"
-          class="card research-card-link mb-4 shadow-sm text-body"
-          aria-label="View the Conversational Agent research case"
-        >
+        <p class="mb-2"><a href="mailto:{{ site.author.email }}">Email</a></p>
         <p class="mb-2"><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a></p>
         <p class="mb-2"><a href="{{ '/cv/' | relative_url }}">CV</a></p>
         <p class="mb-2"><a href="{{ '/research/' | relative_url }}">Publications</a></p>
@@ -29,11 +28,13 @@
       </div>
     </aside>
 
+
     <!-- Main introduction -->
     <main class="col-lg-8">
       <p>
         Hello, I'm Cheng-Hsuan (Sheny) Lin.
       </p>
+
 
       <p>
         My current research asks how people perceive support and understanding
@@ -47,6 +48,7 @@
         other cognitively vulnerable populations. (2021–present)
       </p>
 
+
       <p>
         Before that, at National Chiao Tung University, I independently designed
         and ran an experiment on how advertising effectiveness shifts across
@@ -56,20 +58,25 @@
         asking it since I entered social science research in 2015.
       </p>
 
+
       <p>
         I hold master's degrees in Information Management from the University of
         Illinois Urbana-Champaign (2023) and Communication Studies from National
         Chiao Tung University (2018).
       </p>
 
+
       <section class="mt-5" aria-labelledby="selected-research-heading">
         <h2 id="selected-research-heading" class="h4 font-weight-bold mb-4">
           Selected Research
         </h2>
 
-        </a>
 
-        <article class="card mb-4 shadow-sm">
+        <a
+          href="{{ '/research/conversational-agent/' | relative_url }}"
+          class="card research-card-link mb-4 shadow-sm text-body"
+          aria-label="View the Conversational Agent research case"
+        >
           <div class="row no-gutters align-items-stretch">
             <div class="col-md-8">
               <div class="card-body p-4">
@@ -88,14 +95,11 @@
               <span class="sr-only">Conversational agent research</span>
             </div>
           </div>
-        </article>
-<article class="card mb-4 shadow-sm"><article class="card mb-4 shadow-sm">        <p c        <a
-          href="{{ '/research/conversational-agent/' | relative_url }}"
-          class="card research-card-link mb-4 shadow-sm text-body"
-          aria-label="View the Conversational Agent research case"
-        >lass="mb-2"><a href="mailto:{{ site.author.email }}">Email</a></p>
+        </a>
+
+
         <article class="card mb-4 shadow-sm">
-          <div class="row no-gutters align-items-stretch<article class="card mb-4 shadow-sm"></ar<p class="mb-2"><a href="mailto:{{ site.author.email }}">Email</a></p>ticle>">
+          <div class="row no-gutters align-items-stretch">
             <div class="col-md-8">
               <div class="card-body p-4">
                 <p class="small text-uppercase text-muted font-weight-bold mb-2">
@@ -113,10 +117,10 @@
               <span class="sr-only">Social TV research</span>
             </div>
           </div>
-        <div class="row no-gutters align-items-stretch">
+        </article>
 
-        <a
-                    href="{{ '/research/conversational-agent/' | rela
+
+        <article class="card mb-4 shadow-sm">
           <div class="row no-gutters align-items-stretch">
             <div class="col-md-8">
               <div class="card-body p-4">
@@ -137,7 +141,8 @@
           </div>
         </article>
 
-  </a>a>
+
+        <article class="card mb-4 shadow-sm">
           <div class="row no-gutters align-items-stretch">
             <div class="col-md-8">
               <div class="card-body p-4">
@@ -157,6 +162,7 @@
             </div>
           </div>
         </article>
+
 
         <article class="card mb-0 shadow-sm">
           <div class="row no-gutters align-items-stretch">
@@ -180,6 +186,7 @@
         </article>
       </section>
     </main>
+
 
   </div>
 </div>
