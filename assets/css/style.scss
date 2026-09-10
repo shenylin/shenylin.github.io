@@ -1,3 +1,36 @@
 ---
 ---
 @import "portfolYOU";
+
+.site-control {
+  align-items: center;
+  display: inline-flex;
+  height: 2rem;
+  justify-content: center;
+  line-height: 1;
+  padding: 0;
+  width: 2rem;
+
+  @include themed(color, $text-black, $text-white);
+
+  &:hover,
+  &:focus {
+    color: $primary;
+    text-decoration: none;
+  }
+}
+
+#theme-toggler::before {
+  display: block;
+  line-height: 1;
+}
+
+.profile-details a {
+  @include themed(color, $text-black, $text-white);
+
+  &:hover,
+  &:focus {
+    color: $primary;
+    text-decoration: none;
+  }
+}
