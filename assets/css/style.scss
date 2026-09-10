@@ -34,3 +34,59 @@
     text-decoration: none;
   }
 }
+
+
+.research-card-link {
+  overflow: hidden;
+
+  &:hover,
+  &:focus {
+    border-color: $primary;
+    text-decoration: none;
+  }
+}
+
+.research-case {
+  max-width: 800px;
+}
+
+.research-case-header h1 {
+  font-size: 2.25rem;
+  line-height: 1.2;
+}
+
+.research-meta dt,
+.research-meta dd {
+  margin-bottom: 0.6rem;
+}
+
+.research-section {
+  margin-top: 3.5rem;
+}
+
+.research-section h2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.research-contribution {
+  border-left: 3px solid $primary;
+  padding-left: 1.5rem;
+}
+
+.research-finding {
+  border-top: 1px solid rgba(128, 128, 128, 0.25);
+  padding: 1.25rem 0 0.5rem;
+}
+
+.research-finding h3 {
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+@media (max-width: 575.98px) {
+  .research-case-header h1 {
+    font-size: 1.8rem;
+  }
+}
