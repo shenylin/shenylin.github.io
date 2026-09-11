@@ -90,3 +90,26 @@
     font-size: 1.8rem;
   }
 }
+
+
+.research-diagram {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.research-diagram img {
+  height: auto;
+  width: 100%;
+}
+
+.research-diagram-dark {
+  display: none;
+}
+
+[data-theme="dark"] .research-diagram-light {
+  display: none;
+}
+
+[data-theme="dark"] .research-diagram-dark {
+  display: block;
+}
