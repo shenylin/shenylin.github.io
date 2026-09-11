@@ -113,3 +113,8 @@
 [data-theme="dark"] .research-diagram-dark {
   display: block;
 }
+
+
+.research-diagram-dark { display: none !important; }
+[data-theme="dark"] .research-diagram-light { display: none !important; }
+[data-theme="dark"] .research-diagram-dark { display: block !important; }
