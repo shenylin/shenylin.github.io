@@ -27,6 +27,9 @@ permalink: /research/michr/
       <dt class="col-sm-3">Scope</dt>
       <dd class="col-sm-9">Research strategy, synthesis, information architecture, and leadership presentation</dd>
 
+      <dt class="col-sm-3">Outcome</dt>
+      <dd class="col-sm-9">Redesigned website launched in June 2024</dd>
+
       <dt class="col-sm-3">Methods</dt>
       <dd class="col-sm-9">Heuristic evaluation, competitive gap analysis, 20 interviews, thematic analysis, empathy mapping, personas, journey mapping, and content inventory</dd>
     </dl>
@@ -55,7 +58,7 @@ permalink: /research/michr/
     <h2>My contribution</h2>
     <p>
       I joined MICHR's Translational Innovation Program as a UX Research Intern
-      in October 2023 to lead the research behind a proposed redesign of the
+      in October 2023 to lead the research behind the redesign of the
       institute's public website.
     </p>
     <ul>
@@ -130,6 +133,18 @@ permalink: /research/michr/
       navigation for investigators working against grant deadlines, and adding
       audience-based paths for community and patient partners and affiliate
       physicians without replacing the project-stage structure.
+    </p>
+  </section>
+
+  <section class="research-section">
+    <h2>Outcome</h2>
+    <p>
+      MICHR launched its redesigned website in June 2024. The live website was
+      designed based on the research and information architecture developed
+      through this project.
+    </p>
+    <p>
+      <a href="https://michr.umich.edu/">Visit the live MICHR website →</a>
     </p>
   </section>
 
