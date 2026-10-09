@@ -8,23 +8,35 @@ weight: 3
 <article class="research-case cv-page">
   <header class="research-case-header mb-5">
     <p class="small text-uppercase text-muted font-weight-bold mb-2">
-      Last updated September 2026
+      Last updated Oct 2026
     </p>
     <h1 class="mb-3">Curriculum Vitae</h1>
     <p class="lead mb-0">Cheng-Hsuan (Sheny) Lin</p>
   </header>
 
   <section class="research-section">
+    <h2>Research Summary</h2>
+    <p>
+      I am interested in how people perceive AI systems, particularly
+      conversational agents: how trust in them forms, and how users come to
+      feel understood and supported by them. In work published at CSCW 2024, I
+      analyzed how conversational style and personality jointly shaped users'
+      trust and acceptance of a voice assistant, combining statistical
+      modeling with metaphor analysis of how users imagined the system. For my
+      doctoral research, I aim to extend these questions to situational
+      cognitive vulnerability — the temporary depletion of cognitive resources
+      produced by the situations people are in, rather than by who they are —
+      and to examine how interacting in that state affects not only users'
+      trust in conversational agents, but also what they choose to disclose to
+      them.
+    </p>
+  </section>
+
+  <section class="research-section">
     <h2>Research Interests</h2>
     <p>
-      Human–AI interaction and human–computer interaction, centered on when
-      and how children, older adults, and other cognitively vulnerable
-      populations come to feel genuinely understood and supported by AI
-      systems. My work spans information behavior and search as learning,
-      human-centered health information systems, and perceptions of
-      AI-mediated interaction, and draws on mixed methods—experiments,
-      surveys, interviews, and usability research—selected to fit the question
-      at hand.
+      Human-Computer Interaction; Human–AI Interaction; Trust in AI;
+      Situational Vulnerability; Human Information Behavior
     </p>
   </section>
 
