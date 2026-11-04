@@ -109,7 +109,7 @@ weight: 3
       <p class="mb-0">
         Lin, C.-H., Lin, H.-F., &amp; Yeo, B. (2019). The influence of social
         TV multitasking behavior on the effectiveness of cross-media
-        advertising. Paper presentation, 69th Annual Conference of the
+        advertising. Panel discussion, 69th Annual Conference of the
         International Communication Association, Washington, D.C.
       </p>
     </div>
@@ -118,8 +118,8 @@ weight: 3
         Hsu, Y.-C., Kononova, A., Lin, C.-H., Muraro, I. S., Park, N.-R.,
         &amp; Hirsch, J. P. (2019). Blending in or standing out? The effects
         of brand familiarity in native and traditional advertising mobile
-        videos on brand attitudes, memory, and purchase intention. Extended
-        abstract and poster, 69th Annual Conference of the International
+        videos on brand attitudes, memory, and purchase intention. Poster
+        presentation, 69th Annual Conference of the International
         Communication Association, Washington, D.C.
       </p>
     </div>
