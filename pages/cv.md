@@ -17,26 +17,21 @@ weight: 3
   <section class="research-section">
     <h2>Research Summary</h2>
     <p>
-      I am interested in how people perceive AI systems, particularly
-      conversational agents: how trust in them forms, and how users come to
-      feel understood and supported by them. In work published at CSCW 2024, I
-      analyzed how conversational style and personality jointly shaped users'
-      trust and acceptance of a voice assistant, combining statistical
-      modeling with metaphor analysis of how users imagined the system. For my
-      doctoral research, I aim to extend these questions to situational
-      cognitive vulnerability — the temporary depletion of cognitive resources
-      produced by the situations people are in, rather than by who they are —
-      and to examine how interacting in that state affects not only users'
-      trust in conversational agents, but also what they choose to disclose to
-      them.
+      My research interests center on how people seek information with
+      conversational AI in moments of situational vulnerability, when the
+      stakes are high but the knowledge, attention, or support needed to
+      navigate them is limited. I am particularly interested in how the sense
+      of being understood by an AI shapes whether people discover feasible
+      options beyond what they already know, and whether they still verify
+      information in proportion to what is at stake.
     </p>
   </section>
 
   <section class="research-section">
     <h2>Research Interests</h2>
     <p>
-      Human-Computer Interaction; Human–AI Interaction; Trust in AI;
-      Situational Vulnerability; Human Information Behavior
+      Human–Computer Interaction; Human–AI Interaction; Information Seeking;
+      Search as Learning; Situational Vulnerability
     </p>
   </section>
 
