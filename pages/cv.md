@@ -93,10 +93,6 @@ weight: 3
         cross-media advertising. <em>International Journal of Communication,
         15</em>, 1570–1594.
       </p>
-      <p>
-        Earlier version presented as a paper at the 69th Annual Conference of
-        the International Communication Association (2019), Washington, D.C.
-      </p>
       <p class="mb-0">
         <a href="https://ijoc.org/index.php/ijoc/article/view/15195">View publication</a>
         <span aria-hidden="true"> · </span>
