@@ -11,7 +11,7 @@ permalink: /research/libib-usability-evaluation/
     <p class="lead mb-4">An expert cognitive walkthrough of Libib designed to uncover usability problems that routine cataloging tasks might miss.</p>
     <dl class="row research-meta mb-4">
       <dt class="col-sm-3">Product</dt><dd class="col-sm-9">Libib mobile app</dd>
-      <dt class="col-sm-3">Project</dt><dd class="col-sm-9">Graduate usability research project</dd>
+      <dt class="col-sm-3">Project</dt><dd class="col-sm-9">Graduate course project</dd>
       <dt class="col-sm-3">Role</dt><dd class="col-sm-9">Sole evaluator</dd>
       <dt class="col-sm-3">Methods</dt><dd class="col-sm-9">Expert cognitive walkthrough, task analysis, and Nielsen's usability heuristics</dd>
     </dl>
@@ -24,7 +24,7 @@ permalink: /research/libib-usability-evaluation/
 
   <section class="research-section research-contribution">
     <h2>My contribution</h2>
-    <p>For a graduate usability research project supervised by Christopher Lueg, I independently designed and conducted a complete expert cognitive walkthrough of the mobile app.</p>
+    <p>For a graduate course project in Christopher Lueg's class, I independently designed and conducted a complete expert cognitive walkthrough of the mobile app.</p>
     <ul>
       <li>I selected 16 deliberately difficult catalog items to expose edge cases.</li>
       <li>I designed eight realistic tasks covering collection creation, scanning, search, editing, and duplicate management.</li>

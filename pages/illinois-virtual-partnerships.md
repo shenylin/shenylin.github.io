@@ -55,11 +55,11 @@ permalink: /research/illinois-virtual-partnerships/
   <section class="research-section research-contribution">
     <h2>My contribution</h2>
     <ul>
-      <li>I participated in all 16 stakeholder interviews and worked with two faculty advisors to synthesize the findings into six design insights.</li>
+      <li>I participated in all 16 stakeholder interviews, co-developed six design insights with two faculty advisors, consolidated them, and prepared the client-facing presentation deck.</li>
       <li>I helped translate those insights into personas, journey maps, and concepts prototyped in Figma.</li>
-      <li>I served as the student lead for the faculty-directed concept-testing evaluation.</li>
-      <li>I helped investigate safety patterns in comparable platforms and translate them into verification and reporting concepts.</li>
-      <li>I joined the project managers in presenting the safety findings to the client's legal team.</li>
+      <li>As student lead for the faculty-directed concept-testing evaluation, I organized and led a series of feedback sessions on the first complete prototype.</li>
+      <li>I investigated how comparable platforms handle safety and helped translate those patterns into verification and reporting concepts.</li>
+      <li>I raised the safety concern with the client and, after the client brought in its legal team, joined the project managers in presenting our findings to them.</li>
     </ul>
   </section>
 
@@ -92,7 +92,8 @@ permalink: /research/illinois-virtual-partnerships/
     <h2>Concept testing revealed a larger risk</h2>
     <p>
       I served as the student lead for a month-long, faculty-directed concept
-      evaluation. Each 50-minute session combined card sorting with prototype
+      evaluation, organizing and leading each session. Each 50-minute session
+      combined card sorting with prototype
       walkthroughs involving subject-matter experts, teachers, and a student.
     </p>
     <p>

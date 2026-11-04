@@ -25,7 +25,7 @@ permalink: /research/michr/
       <dd class="col-sm-9">UX Research Intern, Translational Innovation Program</dd>
 
       <dt class="col-sm-3">Scope</dt>
-      <dd class="col-sm-9">Research strategy, synthesis, information architecture, and leadership presentation</dd>
+      <dd class="col-sm-9">Research strategy, synthesis, information architecture, prototyping, and leadership presentation</dd>
 
       <dt class="col-sm-3">Outcome</dt>
       <dd class="col-sm-9">Redesigned website launched in June 2024</dd>
@@ -62,9 +62,11 @@ permalink: /research/michr/
       institute's public website.
     </p>
     <ul>
-      <li>I helped plan and conduct the heuristic evaluation, gap analysis, interviews, and research synthesis.</li>
+      <li>I designed the research process and, with a UX designer and a fellow intern, conducted 20 semi-structured stakeholder interviews.</li>
+      <li>I led the heuristic evaluation, thematic analysis, persona development, and journey mapping with a fellow intern.</li>
       <li>I identified recurring patterns across audiences and translated them into structural design decisions.</li>
-      <li>I reorganized the information architecture around users' research journeys rather than MICHR's internal program structure.</li>
+      <li>I reorganized the information architecture around the roadblocks users encountered rather than MICHR's internal program structure.</li>
+      <li>I led the creation of mid-to-high-fidelity Figma prototypes that served as the basis for the vendor's final design.</li>
       <li>I designed specific navigation solutions in response to high-friction information needs.</li>
       <li>I presented the proposed structure and the research behind it directly to MICHR's leadership.</li>
     </ul>
@@ -82,7 +84,7 @@ permalink: /research/michr/
     <p>
       We then conducted and analyzed 20 semi-structured interviews across three
       groups: MICHR leadership, researchers and program staff who use MICHR in
-      their work, and external partners encountering the institute from outside.
+      their work, and external users encountering the institute from outside.
       We synthesized the interviews through thematic analysis and empathy
       mapping, developed personas and journey maps for the site's principal
       audiences, and built a full content inventory to support the new
@@ -109,7 +111,7 @@ permalink: /research/michr/
     <div class="research-finding">
       <h3>Different audiences came to the site with different goals</h3>
       <p>
-        Leadership, internal program users, new visitors, and external partners
+        Leadership, internal program users, new visitors, and external users
         did not need the same entry point or level of context.
       </p>
     </div>
@@ -120,11 +122,11 @@ permalink: /research/michr/
     <p>
       The most consequential decision was to stop making MICHR's internal
       program structure the primary organizing principle. I reworked the
-      information architecture around stages of a translational research
-      project: building a team, designing a study, funding it, implementing it,
-      and disseminating results. Users would no longer need to know which
-      program housed the help they needed; they would only need to recognize
-      where they were in their work.
+      information architecture around the roadblocks users encounter in
+      translational research, such as building a team, designing a study,
+      funding it, implementing it, and disseminating results. Users would no
+      longer need to know which program housed the help they needed; they would
+      only need to recognize the roadblock they were facing.
     </p>
     <p>
       I designed the structure to help both first-time and returning users reach
@@ -132,16 +134,16 @@ permalink: /research/michr/
       smaller decisions: surfacing letters-of-support guidance directly in the
       navigation for investigators working against grant deadlines, and adding
       audience-based paths for community and patient partners and affiliate
-      physicians without replacing the project-stage structure.
+      physicians without replacing the roadblock-based structure.
     </p>
   </section>
 
   <section class="research-section">
     <h2>Outcome</h2>
     <p>
-      MICHR launched its redesigned website in June 2024. The live website was
-      designed based on the research and information architecture developed
-      through this project.
+      MICHR launched its redesigned website in June 2024. The vendor's final
+      design was based on the research, information architecture, and
+      mid-to-high-fidelity Figma prototypes developed through this project.
     </p>
     <p>
       <a href="https://michr.umich.edu/">Visit the live MICHR website →</a>
@@ -153,7 +155,7 @@ permalink: /research/michr/
     <p>
       This project taught me that simplifying a complex service is often not a
       matter of adding more content, but of changing the logic used to organize
-      what already exists. No participant explicitly asked for a project-stage
+      what already exists. No participant explicitly asked for a roadblock-based
       information architecture; they described the same underlying frustration
       in different ways. Recognizing that pattern and proposing a structural
       response became the most important part of leading the research—not only
