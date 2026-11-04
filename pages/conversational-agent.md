@@ -28,10 +28,10 @@ permalink: /research/conversational-agent/
       <dd class="col-sm-9">2 × 2 Wizard-of-Oz experiment · N = 58 · Ages 50–80</dd>
 
       <dt class="col-sm-3">My role</dt>
-      <dd class="col-sm-9">Quantitative analysis and collaborative qualitative coding</dd>
+      <dd class="col-sm-9">Exploratory quantitative analysis and collaborative qualitative coding</dd>
 
       <dt class="col-sm-3">Methods</dt>
-      <dd class="col-sm-9">Correlation, ANOVA, MANOVA, linear regression, and metaphor coding</dd>
+      <dd class="col-sm-9">Reliability analysis, t-tests, ANOVA, MANOVA, group-wise correlations, and metaphor coding</dd>
     </dl>
 
     <a class="btn btn-outline-primary" href="https://doi.org/10.1145/3637365">
@@ -78,10 +78,12 @@ permalink: /research/conversational-agent/
     </p>
     <ul>
       <li>
-        I conducted quantitative analyses in R—including correlation, ANOVA,
-        MANOVA, and linear regression—to examine how age, personality, and
-        conversational style shaped perceived intelligence, trust,
-        likeability, and technology acceptance.
+        I conducted exploratory analyses in R—including reliability analysis,
+        t-tests, ANOVA, MANOVA, and correlations computed separately for the
+        formal and informal groups—to examine how age, personality, and
+        conversational style related to perceived intelligence, trust,
+        likeability, and technology acceptance, helping the team identify
+        directions for the final analyses.
       </li>
       <li>
         I worked with a co-author to develop and apply a coding scheme for
@@ -90,8 +92,9 @@ permalink: /research/conversational-agent/
       </li>
     </ul>
     <p class="small text-muted mb-0">
-      The original study design and the multilevel modeling used for the
-      paper's metaphor findings were led by my co-authors.
+      The original study design and the final analyses reported in the paper,
+      including the regression and multilevel models, were led by my
+      co-authors.
     </p>
   </section>
 
@@ -139,15 +142,17 @@ permalink: /research/conversational-agent/
   <section class="research-section">
     <h2>What I carried forward</h2>
     <p>
-      The technology-acceptance result I analyzed was important, but the
-      metaphor finding stayed with me: a shift in tone could move the same AI,
-      in someone's mind, from a tool to a member of the family. It sharpened
-      the question that now guides my research—whether an AI feels genuinely
-      understanding may depend not only on what it can do, but also on how it
-      is designed to relate to people. This is especially consequential for
-      people whose needs are often designed around rather than designed for,
-      including children, older adults, and other cognitively vulnerable
-      populations.
+      Through team discussions of the final analyses, I learned that the same
+      design choice can land differently depending on the user: older adults,
+      unlike middle-aged adults, preferred the informal assistant. The metaphor
+      finding also stayed with me: a shift in tone could move the same AI, in
+      someone's mind, from a tool to a member of the family. Together, these
+      results sharpened the question that now guides my research—what the
+      sense of being understood by an AI changes in what people do next. I am
+      now interested in how that perception shapes information seeking in
+      moments of situational vulnerability: whether it helps people discover
+      feasible options beyond what they already know, and whether they still
+      verify information in proportion to what is at stake.
     </p>
   </section>
 

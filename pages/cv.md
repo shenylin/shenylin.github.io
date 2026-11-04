@@ -8,7 +8,7 @@ weight: 3
 <article class="research-case cv-page">
   <header class="research-case-header mb-5">
     <p class="small text-uppercase text-muted font-weight-bold mb-2">
-      Last updated Oct 2026
+      Last updated Nov 2026
     </p>
     <h1 class="mb-3">Curriculum Vitae</h1>
     <p class="lead mb-0">Cheng-Hsuan (Sheny) Lin</p>
@@ -135,9 +135,9 @@ weight: 3
         Medicine, University of Michigan · Ann Arbor, Michigan
       </p>
       <ul>
-        <li>Conducted and analyzed 20 semi-structured stakeholder interviews with leadership, program users, and external partners to identify usability and content needs for the MICHR website redesign.</li>
-        <li>Conducted heuristic evaluation, thematic analysis, persona development, and journey mapping, translating findings into an updated information architecture and Figma prototypes.</li>
-        <li>Delivered stakeholder presentations informing the site redesign, launched in June 2024.</li>
+        <li>Designed the research process for the MICHR website redesign and, with a UX designer and a fellow intern, conducted 20 semi-structured stakeholder interviews with leadership, program users, and external users to identify usability and content needs.</li>
+        <li>Led heuristic evaluation, thematic analysis, persona development, and journey mapping with a fellow intern; synthesized the findings, designed an updated information architecture, and led the creation of mid-to-high-fidelity Figma prototypes that served as the basis for the vendor's final design.</li>
+        <li>Delivered stakeholder presentations informing the site redesign, which launched in June 2024.</li>
       </ul>
       <p class="mb-0"><a href="{{ '/research/michr/' | relative_url }}">View research case</a></p>
     </div>
@@ -152,7 +152,7 @@ weight: 3
 
       <h4 class="h6 font-weight-bold">Conversational Agents</h4>
       <ul>
-        <li>Ran quantitative analyses in R (correlation, ANOVA, MANOVA, and linear regression) examining conversational style, age, personality, technology acceptance, and perceptions of voice assistants.</li>
+        <li>Ran exploratory analyses in R (reliability analysis, t-tests, ANOVA, MANOVA, and group-wise correlations) examining conversational style, age, personality, technology acceptance, and perceptions of voice assistants, helping the team identify directions for the final analyses.</li>
         <li>Coded and categorized participants' metaphorical descriptions of voice assistants and contributed to iterative refinement of the coding scheme.</li>
         <li>Contributed analysis and interpretation to a Wizard-of-Oz study of formal versus informal voice-assistant interaction with middle-aged and older adults, published at CSCW 2024.</li>
       </ul>
@@ -170,8 +170,7 @@ weight: 3
       <p class="text-muted mb-1">University of Illinois Urbana-Champaign · Champaign, Illinois</p>
       <p>Supervisor: Vidya Haran, Ph.D.</p>
       <ul class="mb-0">
-        <li>Drafted the initial manuscript for a faculty-led study on human-centered experiential learning, organizing existing findings, methods, and design artifacts into a scholarly narrative.</li>
-        <li>Conducted the literature review supporting work later published as Haran &amp; Switzky (2025).</li>
+        <li>Wrote the complete initial manuscript for a faculty-led study on human-centered experiential learning, conducting the literature review and organizing the faculty team's existing findings, methods, and design artifacts into a scholarly narrative; the study was later published by the faculty authors as Haran &amp; Switzky (2025).</li>
       </ul>
     </div>
 
@@ -184,19 +183,20 @@ weight: 3
       <p>Faculty supervisors: Vidya Haran, Ph.D., and Rachel Switzky, Director, Siebel Center for Design</p>
       <ul>
         <li>Served as lead student researcher on a year-long human-centered design engagement for the Illinois Virtual Partnership, a free virtual tutoring and resource platform for Illinois high schoolers, families, and teachers.</li>
-        <li>Contributed to a team-based competitive analysis of four existing UIUC outreach programs and to synthesizing 16 stakeholder interviews into six key insights that shaped the platform's design direction.</li>
-        <li>Co-developed user personas, journey maps, and safety-focused design recommendations; served as student lead on a faculty-directed concept-testing evaluation informing the final prototype handoff.</li>
+        <li>Co-developed six key insights from 16 faculty-led stakeholder interviews with two faculty supervisors, consolidated them to guide the platform's design direction, and prepared the client-facing presentation deck; contributed to a team-based competitive analysis of four existing UIUC outreach programs.</li>
+        <li>Co-developed user personas and journey maps; as student lead of a faculty-directed concept-testing evaluation, organized and led a series of expert feedback sessions on the first complete prototype.</li>
+        <li>Investigated a safety concern raised in these sessions about one-on-one matching of college tutors with minors, benchmarked how platforms such as Uber and Bumble handle safety, and raised the issue with the client, after which the client brought in its legal team.</li>
       </ul>
       <p class="mb-0"><a href="{{ '/research/illinois-virtual-partnerships/' | relative_url }}">View research case</a></p>
     </div>
 
     <div class="research-finding">
-      <h3>2022 · Usability Researcher, Graduate Usability Research Project</h3>
+      <h3>2022 · Graduate Course Project: Usability Evaluation of Libib</h3>
       <p class="text-muted mb-1">
         School of Information Sciences, University of Illinois
         Urbana-Champaign · Champaign, Illinois
       </p>
-      <p>Faculty supervisor: Christopher Lueg, Ph.D.</p>
+      <p>Instructor: Christopher Lueg, Ph.D.</p>
       <ul>
         <li>Designed and conducted a task-based cognitive walkthrough and expert usability evaluation of Libib, a media-cataloging application.</li>
         <li>Developed eight realistic cataloging tasks using 16 mixed-media items and applied Nielsen's heuristics to identify usability breakdowns and formulate design recommendations.</li>
@@ -255,8 +255,7 @@ weight: 3
       <h3>2024 · Product Manager</h3>
       <p class="text-muted">Fluv Inc. · Fremont, California (Remote)</p>
       <ul class="mb-0">
-        <li>First Product Manager hire; led cross-functional development across design, engineering, user research, and analytics for a C2C pet-sitting platform.</li>
-        <li>Synthesized user needs and behavioral data into product strategy serving both pet parents and pet sitters.</li>
+        <li>First Product Manager hire for a C2C pet-sitting platform, working on mobile and desktop product integration and UX research.</li>
       </ul>
     </div>
 
@@ -264,7 +263,7 @@ weight: 3
       <h3>2019–2020 · Customer Success Manager</h3>
       <p class="text-muted">Ematic Solutions · Taipei, Taiwan</p>
       <ul class="mb-0">
-        <li>Analyzed digital advertising and e-commerce performance in Google Analytics to evaluate campaigns and inform client recommendations.</li>
+        <li>Analyzed digital advertising and e-commerce performance in Google Analytics, including A/B tests of email marketing campaigns, to evaluate campaigns and inform client recommendations.</li>
         <li>Served as primary liaison between e-commerce clients and engineers, translating needs into technical requirements for SaaS deployment.</li>
         <li>Identified recurring client pain points through ongoing consultation and handled audience extraction and segmentation as needed.</li>
       </ul>
@@ -276,7 +275,7 @@ weight: 3
       <ul class="mb-0">
         <li>Led cross-functional engineering teams through end-to-end development of smart-home cameras and video doorbells, from kickoff to production readiness.</li>
         <li>Coordinated hardware, software, regulatory, material, and schedule dependencies across multiple technical teams.</li>
-        <li>Served as the central point of contact aligning engineering teams with product owners and external stakeholders.</li>
+        <li>Served as the central point of contact between brand clients and engineering teams, translating client requirements into development plans.</li>
       </ul>
     </div>
   </section>
@@ -313,9 +312,9 @@ weight: 3
 
   <section class="research-section">
     <h2>Research Methods and Technical Skills</h2>
-    <p><strong>Quantitative:</strong> Experimental design, A/B testing, survey design, ANOVA/ANCOVA, regression, path analysis, hypothesis testing, statistical modeling, data mining, and data visualization.</p>
-    <p><strong>Qualitative and mixed methods:</strong> Semi-structured interviews, thematic and metaphor coding, participatory design, usability testing, heuristic evaluation, cognitive walkthrough, card sorting, affinity mapping, persona development, journey mapping, and rapid prototyping.</p>
-    <p class="mb-0"><strong>Tools:</strong> R, Python, SQL, SPSS, Tableau, Jupyter, Qualtrics, Figma, Miro, Dovetail, and Notion.</p>
+    <p><strong>Quantitative:</strong> Experimental design, A/B testing, survey design, ANOVA/ANCOVA/MANOVA, regression, path analysis, hypothesis testing, and data visualization.</p>
+    <p><strong>Qualitative and mixed methods:</strong> Semi-structured interviews, thematic and metaphor coding, participatory design, concept testing, heuristic evaluation, cognitive walkthrough, card sorting, affinity mapping, persona development, journey mapping, and rapid prototyping.</p>
+    <p class="mb-0"><strong>Tools:</strong> R, Python, SPSS, Qualtrics, Dovetail, and Figma.</p>
   </section>
 
   <section class="research-section">
