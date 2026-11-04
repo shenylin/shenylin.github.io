@@ -107,6 +107,14 @@ weight: 3
     <h3 class="h5 font-weight-bold mt-5">Conference Papers and Presentations</h3>
     <div class="research-finding">
       <p class="mb-0">
+        Lin, C.-H., Lin, H.-F., &amp; Yeo, B. (2019). The influence of social
+        TV multitasking behavior on the effectiveness of cross-media
+        advertising. Paper presentation, 69th Annual Conference of the
+        International Communication Association, Washington, D.C.
+      </p>
+    </div>
+    <div class="research-finding">
+      <p class="mb-0">
         Hsu, Y.-C., Kononova, A., Lin, C.-H., Muraro, I. S., Park, N.-R.,
         &amp; Hirsch, J. P. (2019). Blending in or standing out? The effects
         of brand familiarity in native and traditional advertising mobile
