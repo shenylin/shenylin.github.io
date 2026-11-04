@@ -46,9 +46,9 @@ permalink: /research/illinois-virtual-partnerships/
       The Office of the Chancellor set out to explore a single platform that
       would combine high-impact tutoring with professional development for
       teachers, building on the university's existing outreach infrastructure.
-      I joined the year-long engagement as a Design Consultant on a
-      cross-functional student consulting team working with product designers,
-      project managers, and faculty advisors.
+      I joined the year-long engagement as a Design Consultant and served as
+      the lead student researcher on a cross-functional student consulting team
+      working with product designers, project managers, and faculty advisors.
     </p>
   </section>
 
